@@ -1,3 +1,5 @@
+THIS IS A FORK TO INCLUDE A BUGFIX. PREFER ORIGINAL SOURCE INSTEAD
+
 # Chrome Launcher [![GitHub Actions Status Badge](https://github.com/GoogleChrome/chrome-launcher/workflows/🛠/badge.svg)](https://github.com/GoogleChrome/chrome-launcher/actions) [![NPM chrome-launcher package](https://img.shields.io/npm/v/chrome-launcher.svg)](https://npmjs.org/package/chrome-launcher)
 
 <img src="https://user-images.githubusercontent.com/39191/29847271-a7ba82f8-8ccf-11e7-8d54-eb88fdf0b6d0.png" align=right height=200>
